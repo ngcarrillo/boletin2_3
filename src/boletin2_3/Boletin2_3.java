@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Brei
+ * @author Nuria
  */
 public class Boletin2_3 {
 
